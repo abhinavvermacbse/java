@@ -5,3 +5,4 @@ strings
 threads
 encapsulations 
 error handling
+string manupulation
